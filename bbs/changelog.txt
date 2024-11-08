@@ -1,4 +1,5 @@
-Version 0.10: The Space Update: Part 1
+0.10
+The Space Update: Part 1
 - The 2024 Time Vortex, made of clouds with lightning effects.
 - Add air bubble around the TARDIS in space.
 - Muffle down sound in space.
@@ -9,6 +10,6 @@ Version 0.10: The Space Update: Part 1
 - Added Skaro.
 - Added Gallifrey.
 - Added Darillium.
-- Real TARDIS orbit: When engaging the handbrake, if Antigravs are enabled, it will brake completely. If they are not, it will brake until minimum velocity for stable orbit.
+- Real TARDIS orbit: When engaging the handbrake, if Antigravs are enabled, it will brake completely. If they are not, it will enter a circular orbit.
 - Added water physics.
 - Land on any surface coordinates of any planet.
