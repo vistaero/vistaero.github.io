@@ -13,3 +13,7 @@ The Space Update: Part 1
 - Real TARDIS orbit: When engaging the handbrake, if Antigravs are enabled, it will brake completely. If they are not, it will enter a circular orbit.
 - Added water physics.
 - Land on any surface coordinates of any planet.
+#WIN: https://drive.google.com/file/d/1225uisZzNRPqF4rnYGXllMDhZBbtcXRO/view?usp=share_link
+#OSX: https://drive.google.com/file/d/1HNGJE56IaL-Xdmr8MIcfH3rysYGeGhfP/view?usp=share_link
+#IOS: https://apps.apple.com/us/app/blue-box-simulator/id1557069711
+#ANDROID: https://play.google.com/store/apps/details?id=com.vistaero.BlueBoxSimulator&pcampaignid=web_share
