@@ -1,4 +1,10 @@
-0.10
+0.10.5
+
+Version 0.10.5: The Space Update - Part 2
+- Create a full scale planet with 3D terrain for every current terrestial world. (In Progress ⏳)
+- Atmospheric friction makes the TARDIS slow down until it matches the planet rotation speed. (In Progress ⏳)
+- Load planets terrain seamlessly as you get near to them. (In Progress ⏳)
+
 0.10: The Space Update - Part 1
 - The 2024 Time Vortex, made of clouds with lightning effects.
 - Add air bubble around the TARDIS in space.
