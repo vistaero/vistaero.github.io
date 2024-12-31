@@ -1,19 +1,18 @@
 0.10
 
 <b>0.10: The Space Update - Part 1</b>
-- The 2024 Time Vortex, made of clouds with lightning effects.
-- Add air bubble around the TARDIS in space.
+- Real TARDIS orbit: When engaging the handbrake, if Antigravs are enabled, it will brake completely. If they are not, it will brake until minimum velocity for stable orbit.
+- Updated the Moon, Mars and Venus with full scale terrains.
+- Added full scale Skaro, Gallifrey and Darillium with atmospheric and water physics. 
+- Added surface coordinates support for all these planets.
+- Air bubble around the TARDIS in space.
 - Muffle down sound in space.
 - Smooth Handbrake slider to brake in flight more precisely.
+- The 2024 Time Vortex, made of clouds with lightning effects.
 - Fast forward and rewind time controls.
 - Silent mode.
 - Invisible mode.
-- Added Skaro.
-- Added Gallifrey.
-- Added Darillium.
-- Real TARDIS orbit: When engaging the handbrake, if Antigravs are enabled, it will brake completely. If they are not, it will enter a circular orbit.
-- Added water physics.
-- Land on any surface coordinates of any planet.
+
 #WIN: https://drive.google.com/file/d/1225uisZzNRPqF4rnYGXllMDhZBbtcXRO/view?usp=share_link
 #OSX: https://drive.google.com/file/d/1HNGJE56IaL-Xdmr8MIcfH3rysYGeGhfP/view?usp=share_link
 #IOS: https://apps.apple.com/us/app/blue-box-simulator/id1557069711
