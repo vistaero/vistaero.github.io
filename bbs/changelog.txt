@@ -1,4 +1,12 @@
-0.10
+0.10.7
+
+<b>0.10.7: The Space Update - Part 1</b>
+- Added Audio Mixer in Settings.
+- Unified the ingame Settings menu with the start menu.
+- Updated start menu background with a new 3D milky way and more galaxies in the background.
+- Improved aerodynamics when falling at high speeds with the Space Throttle off.
+- New high quality animated texture for Neptune.
+- Several bug fixes.
 
 <b>0.10: The Space Update - Part 1</b>
 - Real TARDIS orbit: When engaging the handbrake, if Antigravs are enabled, it will brake completely. If they are not, it will brake until minimum velocity for stable orbit.
