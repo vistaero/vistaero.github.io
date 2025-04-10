@@ -1,4 +1,14 @@
-0.10.9
+0.10.10
+
+<b>0.10.10</b>
+- Added speedometer in cars.
+- Optimized car acceleration and braking.
+- Drivable K9.
+- Grab NPC button.
+- Fixed bug when calling the TARDIS while inside a vehicle
+- Fixed bug when calling the TARDIS in space.
+- Added FPS counter toggle in Settings.
+- Other minor bug fixes.
 
 <b>0.10.9</b>
 - New Cardiff scene
