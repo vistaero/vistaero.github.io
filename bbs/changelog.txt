@@ -1,4 +1,12 @@
-0.10.10
+0.10.11
+
+<b>0.10.11</b>
+- Fixed Sport car having too much motor torque and too little braking torque.
+- More stable speedometer.
+- Fixed police box lens flare visible on the inside.
+- Fixed shader issues with the chameleon circuit tree camouflage.
+- Fixed delay when opening the door of the Factory Shell skin.
+- Other minor fixes.
 
 <b>0.10.10</b>
 - Added speedometer in cars.
