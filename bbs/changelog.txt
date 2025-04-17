@@ -1,4 +1,11 @@
-0.10.11
+0.10.12
+
+<b>0.10.12</b>
+- Added option to switch between D-Pad and Joystick in Input Settings.
+- Fixed Skaro surface not loading.
+- Fixed mouse settings not being loaded.
+- Fixed blank Google Earth world.
+- Fixed a black box sometimes being visible instead of the TARDIS.
 
 <b>0.10.11</b>
 - Fixed Sport car having too much motor torque and too little braking torque.
