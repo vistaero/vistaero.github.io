@@ -1,6 +1,6 @@
-Important Notice: We are aware that Google Maps doesn't work. Please refrain from leaving a bad review because of that. We had to cancel the service because the Google Maps API became extremely expensive. We are working hard on a solution.
-
 0.10.12
+
+Important Notice: We are aware that Google Maps doesn't work. Please refrain from leaving a bad review because of that. We had to cancel the service because the Google Maps API became extremely expensive. We are working hard on a solution.
 
 <b>0.10.12</b>
 - Added option to switch between D-Pad and Joystick in Input Settings.
