@@ -1,4 +1,19 @@
-0.10.12
+0.11.1
+
+<b>Version 0.11.1: The Relativity Update</b>
+
+- Time Dilation: The faster you travel (or the closer you get to a black hole), the faster you advance into the future.
+- Relativistic Rendering: Spacetime distortion effects now appear as you approach the speed of light.
+- Warp Bubble Effect: A visual warp bubble now appears when traveling in warp mode.
+- Reworked Space Throttle: The power curve has been adjusted; you can now exceed the speed of light only in warp mode.
+- Added Sagittarius A*: A black hole with physically accurate rendering!
+- Google Earth Fix: You must now obtain and use your own API key to access Google Photorealistic 3D Tiles.
+- Bing Maps Fix: If no API key is entered, Bing Maps will now load properly.
+New Settings:
+- Relativistic Rendering: Off, Low, or High.
+- Warp Effect: Off, Bubble, or Blue Tunnel.
+- Space Particles: On or Off.
+- Reentry Effect: On or Off.
 
 <b>Important notice:</b> We are aware that Google Maps doesn't work. Please refrain from leaving a bad review because of that. We had to cancel the service because the Google Maps API became extremely expensive. We are working hard on a solution.
 
