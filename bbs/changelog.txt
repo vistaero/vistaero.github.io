@@ -4,7 +4,7 @@
 
 Follow this guide: <a href="https://support.google.com/googleapi/answer/6158841?hl=en">https://support.google.com/googleapi/answer/6158841?hl=en</a>
 
-<b>Important notice:</b>
+<b>Important notice for Samsung users:</b>
 We’ve identified crashes on some devices caused by a Qualcomm graphics driver issue and Samsung’s aggressive battery management.
 <b>How to fix:</b>
 - If the game asks you to choose between Vulkan and OpenGL, we recommend selecting OpenGL (it’s more stable on Galaxy S24 for now).
