@@ -7,12 +7,15 @@ Follow this guide: <a href="https://support.google.com/googleapi/answer/6158841?
 <b>Important notice for Samsung users:</b>
 We’ve identified crashes on some devices caused by a Qualcomm graphics driver issue and Samsung’s aggressive battery management.
 <b>How to fix:</b>
-- If the game asks you to choose between Vulkan and OpenGL, we recommend selecting OpenGL (it’s more stable on Galaxy S24 for now).
-- Update to the latest game version.
+In the app:
+- If the game asks you to choose between Vulkan and OpenGL, try both and keep the one that seems most stable.
+- Set de FPS Limit in Settings > Graphics to at least 30FPS
+- Limit the Render Scale in Settings > Graphics to at least 50%.
+In your device:
 - Go to Settings → Apps → Blue Box Simulator → Battery → Unrestricted
 - Go to Settings → Battery → Background usage limits, turn off Put unused apps to sleep, and add Blue Box Simulator to Apps that won’t be put to sleep
 - Open the recent apps screen, tap the game’s icon, and select Keep open
-- Make sure your S24 is up to date: Settings → Software update → Download and install
+- Make sure your firmware is up to date: Settings → Software update → Download and install
 
 <b>Version 0.11.1: The Relativity Update</b>
 
