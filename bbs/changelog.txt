@@ -1,14 +1,20 @@
-0.11.1
+0.11.2
 
 <b>Important notice:</b> If you alrady got your API key for Google Maps Tiles API and it doesn't work, please make sure you have the Map Tiles API enabled, since it doesn't get enabled by default.
 
 Follow this guide: <a href="https://support.google.com/googleapi/answer/6158841?hl=en">https://support.google.com/googleapi/answer/6158841?hl=en</a>
 
+<b>Version 0.11.2</b>
+- Added zoom functionality in first-person view (pinch to zoom).
+- Space particles now move more naturally.
+- Fixed camera glitches.
+- Fixed an error when dematerializing while in siege mode.
+- Attempted to fix an issue where the game could get stuck on the loading screen in some cases.
+
 <b>Important notice for Samsung users:</b>
 We’ve identified crashes on some devices caused by a Qualcomm graphics driver issue and Samsung’s aggressive battery management.
 <b>How to fix:</b>
 In the app:
-- If the game asks you to choose between Vulkan and OpenGL, try both and keep the one that seems most stable.
 - Set de FPS Limit in Settings > Graphics to at least 30FPS
 - Limit the Render Scale in Settings > Graphics to at least 50%.
 In your device:
