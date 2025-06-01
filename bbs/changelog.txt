@@ -1,15 +1,13 @@
-0.11.2
+0.11.5
 
 <b>Important notice:</b> If you alrady got your API key for Google Maps Tiles API and it doesn't work, please make sure you have the Map Tiles API enabled, since it doesn't get enabled by default.
 
 Follow this guide: <a href="https://support.google.com/googleapi/answer/6158841?hl=en">https://support.google.com/googleapi/answer/6158841?hl=en</a>
 
-<b>Version 0.11.2</b>
-- Added zoom functionality in first-person view (pinch to zoom).
-- Space particles now move more naturally.
-- Fixed camera glitches.
-- Fixed an error when dematerializing while in siege mode.
-- Attempted to fix an issue where the game could get stuck on the loading screen in some cases.
+<b>Version 0.11.5</b>
+- Adaptive performance has been implemented.
+- AdMob initialization has been delayed until an ad is requested.
+- Fixed bugs on Earth.
 
 <b>Important notice for Samsung users:</b>
 We’ve identified crashes on some devices caused by a Qualcomm graphics driver issue and Samsung’s aggressive battery management.
@@ -23,8 +21,20 @@ In your device:
 - Open the recent apps screen, tap the game’s icon, and select Keep open
 - Make sure your firmware is up to date: Settings → Software update → Download and install
 
-<b>Version 0.11.1: The Relativity Update</b>
+<b>Version 0.11.4</b>
+- Reduced game size
+- Scenes load more smoothly
+- The [i] button now takes you to the marked space coordinates
+- The time vortex is skipped when landing on a surface or traveling to orbit
 
+<b>Version 0.11.2</b>
+- Added zoom functionality in first-person view (pinch to zoom).
+- Space particles now move more naturally.
+- Fixed camera glitches.
+- Fixed an error when dematerializing while in siege mode.
+- Attempted to fix an issue where the game could get stuck on the loading screen in some cases.
+
+<b>Version 0.11.1: The Relativity Update</b>
 - Time Dilation: The faster you travel (or the closer you get to a black hole), the faster you advance into the future.
 - Relativistic Rendering: Spacetime distortion effects now appear as you approach the speed of light.
 - Warp Bubble Effect: A visual warp bubble now appears when traveling in warp mode.
@@ -37,8 +47,6 @@ New Settings:
 - Warp Effect: Off, Bubble, or Blue Tunnel.
 - Space Particles: On or Off.
 - Reentry Effect: On or Off.
-
-<b>Important notice:</b> We are aware that Google Maps doesn't work. Please refrain from leaving a bad review because of that. We had to cancel the service because the Google Maps API became extremely expensive. We are working hard on a solution.
 
 <b>0.10.12</b>
 - Added option to switch between D-Pad and Joystick in Input Settings.
