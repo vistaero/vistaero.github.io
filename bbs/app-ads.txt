@@ -1,7 +1,5 @@
-# Google AdMob
 google.com, pub-7322070979978145, DIRECT, f08c47fec0942fa0
 
-# Unity Ads
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
 aceex.io, 1926, RESELLER, b1cf3c874d5c6682
 adform.com, 716, RESELLER
