@@ -1,4 +1,4 @@
-0.11.5
+0.11.8
 
 <b>Important notice:</b> If you alrady got your API key for Google Maps Tiles API and it doesn't work, please make sure you have the Map Tiles API enabled, since it doesn't get enabled by default.
 
