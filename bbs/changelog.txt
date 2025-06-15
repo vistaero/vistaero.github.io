@@ -4,6 +4,20 @@
 
 Follow this guide: <a href="https://support.google.com/googleapi/answer/6158841?hl=en">https://support.google.com/googleapi/answer/6158841?hl=en</a>
 
+<b>Version 0.11.8</b>
+- Fixed planets having a lower resolution than configured in Settings.
+- Fixed a crash in the main menu when shutting down the TARDIS.
+
+<b>Version 0.11.7</b>
+- Switched to Unity Ads: Ads should now work properly on all Android or iOS devices.
+- Performance improved: Enabled Texture Streaming and LOD for all celestial bodies.
+- Gas giants updated: Jupiter, Saturn, Uranus, and Neptune now have animated atmospheres.
+- Skybox quality setting: 1K, 2K, 4K, or 8K.
+- Various fixes and optimizations.
+
+<b>Version 0.11.6</b
+- Added Open URL window.
+
 <b>Version 0.11.5</b>
 - Adaptive performance has been implemented.
 - AdMob initialization has been delayed until an ad is requested.
