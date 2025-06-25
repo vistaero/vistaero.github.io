@@ -1,47 +1,71 @@
-0.11.8
+0.11.15
 
-<b>Important notice:</b> If you alrady got your API key for Google Maps Tiles API and it doesn't work, please make sure you have the Map Tiles API enabled, since it doesn't get enabled by default.
+<b>0.11.15</b>
+- Minor fixes.
 
-Follow this guide: <a href="https://support.google.com/googleapi/answer/6158841?hl=en">https://support.google.com/googleapi/answer/6158841?hl=en</a>
+<b>0.11.14</b>
+- Minor optimizations and fixes.
 
-<b>Version 0.11.8</b>
+<b>0.11.13</b>
+- Added an option to join Patreon instead of using your own API key to access the Google Photorealistic Earth world.
+- Fixed an issue where the TARDIS would not travel to the selected city after pressing [!].
+- For better clarity, the [!] button now turns into an arrow after selecting another city while already on Earth.
+- Fixed a crash in the Cardiff scene on devices with low RAM.
+- Other bug fixes.
+
+<b>0.11.12</b>
+- Fixed ads not loading on mobile.
+
+<b>0.11.11</b>
+- Updated Uranus texture.
+- Fixed gas giants flowing animation.
+- Optimized gas giants textures compression settings.
+- Other bug fixes and small optimizations.
+
+<b>0.11.10</b>
+- Bugs fixed.
+
+<b>0.11.9</b>
+- Bugs fixed
+
+<b>0.11.8</b>
 - Fixed planets having a lower resolution than configured in Settings.
 - Fixed a crash in the main menu when shutting down the TARDIS.
 
-<b>Version 0.11.7</b>
+<b>0.11.7</b>
 - Switched to Unity Ads: Ads should now work properly on all Android or iOS devices.
 - Performance improved: Enabled Texture Streaming and LOD for all celestial bodies.
 - Gas giants updated: Jupiter, Saturn, Uranus, and Neptune now have animated atmospheres.
 - Skybox quality setting: 1K, 2K, 4K, or 8K.
 - Various fixes and optimizations.
 
-<b>Version 0.11.6</b
+<b>0.11.6</b>
 - Added Open URL window.
 
-<b>Version 0.11.5</b>
+<b>0.11.5</b>
 - Adaptive performance has been implemented.
 - AdMob initialization has been delayed until an ad is requested.
 - Fixed bugs on Earth.
 
 <b>Important notice for Samsung users:</b>
-We’ve identified crashes on some devices caused by a Qualcomm graphics driver issue and Samsung’s aggressive battery management.
+Weâ€™ve identified crashes on some devices caused by a Qualcomm graphics driver issue and Samsungâ€™s aggressive battery management.
 <b>How to fix:</b>
 In the app:
 - Set de FPS Limit in Settings > Graphics to at least 30FPS
 - Limit the Render Scale in Settings > Graphics to at least 50%.
 In your device:
-- Go to Settings → Apps → Blue Box Simulator → Battery → Unrestricted
-- Go to Settings → Battery → Background usage limits, turn off Put unused apps to sleep, and add Blue Box Simulator to Apps that won’t be put to sleep
-- Open the recent apps screen, tap the game’s icon, and select Keep open
-- Make sure your firmware is up to date: Settings → Software update → Download and install
+- Go to Settings â†’ Apps â†’ Blue Box Simulator â†’ Battery â†’ Unrestricted
+- Go to Settings â†’ Battery â†’ Background usage limits, turn off Put unused apps to sleep, and add Blue Box Simulator to Apps that wonâ€™t be put to sleep
+- Open the recent apps screen, tap the gameâ€™s icon, and select Keep open
+- Make sure your firmware is up to date: Settings â†’ Software update â†’ Download and install
 
-<b>Version 0.11.4</b>
+<b>0.11.4</b>
 - Reduced game size
 - Scenes load more smoothly
 - The [i] button now takes you to the marked space coordinates
 - The time vortex is skipped when landing on a surface or traveling to orbit
 
-<b>Version 0.11.2</b>
+<b>0.11.2</b>
 - Added zoom functionality in first-person view (pinch to zoom).
 - Space particles now move more naturally.
 - Fixed camera glitches.
